@@ -1,0 +1,24 @@
+--- 
+title: "Learning Bayesian Inferences With Examples"
+author: "Lingyun Zhang"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+links-as-notes: true
+colorlinks: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Preface {-}
+
+# One paramter cases
+
+## Estimate a proportion
+
+# Multiple parameter cases
+
