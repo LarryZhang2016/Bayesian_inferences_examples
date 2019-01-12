@@ -16,6 +16,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Preface {-}
 
+Year 2019 will be the Bayes year for me, and I want to learn Bayesian Inferences (or Bayesian modelling) in this year.
+
+This book includes the examples that I will learn.
+
 # One paramter cases
 
 ## Estimate a proportion
